@@ -1,2 +1,11 @@
 # Bike-Sales-Analysis-Dashboard
-This project is a mini data analyst portfolio piece showcasing sales data analysis for a bike retail business.  Key Highlights: - Cleaned and organized the bike sales dataset for analysis. - Created pivot tables and interactive dashboards in Excel / Power BI to visualize:    • Top-selling bike models    • Monthly revenue trends    
+Analyzed bike sales data for a retail business and created interactive dashboards to track performance.   
+Highlights:
+
+Cleaned and organized sales dataset.
+
+Pivot tables and charts to visualize top-selling bike models, monthly revenue trends, and category-level sales.
+
+Extracted actionable insights and KPIs.
+
+Skills demonstrated: Excel, Power BI, Data Analysis, Data Visualization, KPI Reporting.
